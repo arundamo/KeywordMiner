@@ -1,0 +1,6 @@
+{
+  "name": "Keyword Miner",
+  "description": "High-performance keyword research tool for Google, YouTube, and Amazon with recursive modifier expansion and real-time intent analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
